@@ -1,0 +1,91 @@
+C:\Users\akhtar.jamil\source\repos\UI3\DAL\bin\Debug\DAL.dll
+C:\Users\akhtar.jamil\source\repos\UI3\DAL\bin\Debug\DAL.pdb
+C:\Users\akhtar.jamil\source\repos\UI3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\akhtar.jamil\source\repos\UI3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\akhtar.jamil\source\repos\UI3\DAL\obj\Debug\DAL.dll
+C:\Users\akhtar.jamil\source\repos\UI3\DAL\obj\Debug\DAL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\DAL.dll.config
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\DAL.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\DAL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\obj\Debug\DAL.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\DAL\obj\Debug\DAL.pdb
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\DAL.dll.config
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\DAL.dll
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\DAL.pdb
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fatih\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Fatih\source\repos\UI3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\UI3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\UI3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Fatih\source\repos\UI3\DAL\obj\Debug\DAL.dll
+C:\Users\Fatih\source\repos\UI3\DAL\obj\Debug\DAL.pdb
+E:\UI3\DAL\bin\Debug\DAL.dll.config
+E:\UI3\DAL\bin\Debug\DAL.dll
+E:\UI3\DAL\bin\Debug\DAL.pdb
+E:\UI3\DAL\bin\Debug\EntityFramework.dll
+E:\UI3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\UI3\DAL\bin\Debug\System.Data.SQLite.dll
+E:\UI3\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+E:\UI3\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+E:\UI3\DAL\bin\Debug\EntityFramework.xml
+E:\UI3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\UI3\DAL\bin\Debug\System.Data.SQLite.xml
+E:\UI3\DAL\bin\Debug\System.Data.SQLite.dll.config
+E:\UI3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\UI3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\UI3\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\UI3\DAL\obj\Debug\DAL.dll
+E:\UI3\DAL\obj\Debug\DAL.pdb
+F:\UI3\DAL\bin\Debug\DAL.dll.config
+F:\UI3\DAL\bin\Debug\DAL.dll
+F:\UI3\DAL\bin\Debug\DAL.pdb
+F:\UI3\DAL\bin\Debug\EntityFramework.dll
+F:\UI3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\UI3\DAL\bin\Debug\System.Data.SQLite.dll
+F:\UI3\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+F:\UI3\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+F:\UI3\DAL\bin\Debug\EntityFramework.xml
+F:\UI3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\UI3\DAL\bin\Debug\System.Data.SQLite.xml
+F:\UI3\DAL\bin\Debug\System.Data.SQLite.dll.config
+F:\UI3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\UI3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\UI3\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\UI3\DAL\obj\Debug\DAL.dll
+F:\UI3\DAL\obj\Debug\DAL.pdb
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\DAL.dll.config
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\DAL.dll
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\DAL.pdb
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\fatih.karaman\source\repos\UI3\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\fatih.karaman\source\repos\UI3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\fatih.karaman\source\repos\UI3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\fatih.karaman\source\repos\UI3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\fatih.karaman\source\repos\UI3\DAL\obj\Debug\DAL.dll
+C:\Users\fatih.karaman\source\repos\UI3\DAL\obj\Debug\DAL.pdb

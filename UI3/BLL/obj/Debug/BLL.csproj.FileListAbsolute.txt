@@ -1,0 +1,71 @@
+C:\Users\akhtar.jamil\source\repos\UI3\BLL\bin\Debug\BLL.dll
+C:\Users\akhtar.jamil\source\repos\UI3\BLL\bin\Debug\BLL.pdb
+C:\Users\akhtar.jamil\source\repos\UI3\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\akhtar.jamil\source\repos\UI3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\akhtar.jamil\source\repos\UI3\BLL\obj\Debug\BLL.dll
+C:\Users\akhtar.jamil\source\repos\UI3\BLL\obj\Debug\BLL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\BLL.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\BLL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\obj\Debug\BLL.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\obj\Debug\BLL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\DAL.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\DAL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\DAL.dll.config
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\BLL.dll
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\BLL.pdb
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\DAL.dll
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\DAL.pdb
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\DAL.dll.config
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fatih\source\repos\UI3\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Fatih\source\repos\UI3\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\UI3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\UI3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Fatih\source\repos\UI3\BLL\obj\Debug\BLL.dll
+C:\Users\Fatih\source\repos\UI3\BLL\obj\Debug\BLL.pdb
+E:\UI3\BLL\bin\Debug\BLL.dll
+E:\UI3\BLL\bin\Debug\BLL.pdb
+E:\UI3\BLL\bin\Debug\DAL.dll
+E:\UI3\BLL\bin\Debug\System.Data.SQLite.dll
+E:\UI3\BLL\bin\Debug\DAL.pdb
+E:\UI3\BLL\bin\Debug\DAL.dll.config
+E:\UI3\BLL\bin\Debug\System.Data.SQLite.xml
+E:\UI3\BLL\bin\Debug\System.Data.SQLite.dll.config
+E:\UI3\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\UI3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\UI3\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\UI3\BLL\obj\Debug\BLL.dll
+E:\UI3\BLL\obj\Debug\BLL.pdb
+F:\UI3\BLL\bin\Debug\BLL.dll
+F:\UI3\BLL\bin\Debug\BLL.pdb
+F:\UI3\BLL\bin\Debug\DAL.dll
+F:\UI3\BLL\bin\Debug\System.Data.SQLite.dll
+F:\UI3\BLL\bin\Debug\DAL.pdb
+F:\UI3\BLL\bin\Debug\DAL.dll.config
+F:\UI3\BLL\bin\Debug\System.Data.SQLite.xml
+F:\UI3\BLL\bin\Debug\System.Data.SQLite.dll.config
+F:\UI3\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\UI3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\UI3\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\UI3\BLL\obj\Debug\BLL.dll
+F:\UI3\BLL\obj\Debug\BLL.pdb
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\BLL.dll
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\BLL.pdb
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\DAL.dll
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\DAL.pdb
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\DAL.dll.config
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\fatih.karaman\source\repos\UI3\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\fatih.karaman\source\repos\UI3\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\fatih.karaman\source\repos\UI3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\fatih.karaman\source\repos\UI3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\fatih.karaman\source\repos\UI3\BLL\obj\Debug\BLL.dll
+C:\Users\fatih.karaman\source\repos\UI3\BLL\obj\Debug\BLL.pdb
